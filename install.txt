@@ -1,0 +1,12 @@
+create one repos github
+clone repos one IDE vs code
+install extension vs code "Live Sass compiler"
+reglage setting Live Sass compiler
+//______________
+  {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "/css"
+    }
+//______________
+
